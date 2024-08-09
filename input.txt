@@ -1,4 +1,0 @@
-E		70000		MPa
-Nu		0.25		no_unit
-yieldstress	70		MPa
-pressure_max	50		MPa
